@@ -32,3 +32,4 @@ venv/
 *.log
 *.prof
 *.pyc
+/.project
