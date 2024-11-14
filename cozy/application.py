@@ -14,7 +14,7 @@ from cozy.db.storage import Storage
 from cozy.ui.widgets.filter_list_box import FilterListBox
 from cozy.ui.widgets.seek_bar import SeekBar
 
-gi.require_version('Handy', '1')
+gi.require_version('Handy', '0.0')
 
 from gi.repository import Gtk, GLib, Handy
 
