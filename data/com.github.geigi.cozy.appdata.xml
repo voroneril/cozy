@@ -49,6 +49,18 @@
   <url type="donation">https://www.patreon.com/geigi</url>
   <update_contact>cozy@geigi.de</update_contact>
   <releases>
+    <release version="0.9.6" timestamp="1731608267">
+      <description>
+        <p>
+        A small QoL release.
+        </p>
+        <ul>
+          <li>Settings: add rewind/forward duration marks.</li>
+          <li>Fix: rewind/forward did not respect playback speed</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
     <release version="0.9.5" timestamp="1620584133">
       <description>
         <p>
